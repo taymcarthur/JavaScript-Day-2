@@ -68,7 +68,7 @@ function greaterThan (a, b) {
 // is the parameter that was passed in.
 function greet (a) {
 	//Hello, Name!"
-	return "Hello, " + a + " !"
+	return "Hello, " + a + "!"
 }
 
 
